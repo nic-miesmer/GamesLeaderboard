@@ -9,7 +9,7 @@ class GameResultsController < ApplicationController
 
   #Find the Game Results By Player
   def indexByPlayer
-    @game_result = GameResult.find_by_player_id(game_result_params)
+     @game_result = GameResult.find_by_player_id(game_result_params)
   end
 
   # GET /game_results/1

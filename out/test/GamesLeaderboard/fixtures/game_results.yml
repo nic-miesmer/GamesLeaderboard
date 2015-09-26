@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_id: 1
+  game_id: 1
+  date: 2015-09-21
+  win: false
+
+two:
+  player_id: 1
+  game_id: 1
+  date: 2015-09-21
+  win: false
